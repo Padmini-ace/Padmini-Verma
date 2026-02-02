@@ -8,7 +8,7 @@ const About: React.FC = () => {
 
   const lines = [
     "// SYS_PROFILE: Padmini Verma",
-    "I'm a BCA Enthusiast obsessed with building practical, high-stakes systems.",
+    "I'm a Tech Enthusiast obsessed with building practical, high-stakes systems.",
     "I don't just write code; I architect solutions.",
     "",
     "\"The best solutions aren't the ones with the most lines of code,",
